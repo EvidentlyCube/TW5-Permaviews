@@ -14,8 +14,8 @@ Then use the permalink to change the story river to be those tiddlers only,
 
 ## Demo:
 
-@TODO
+See the demo [here](https://evidentlycube.github.io/TW5-PluginShowcase/#Permaviews).
 
 ## Installation:
 
-@TODO
+Drag [this link](https://evidentlycube.github.io/TW5-PluginShowcase/#%24%3A%2Fplugins%2FEvidentlyCube%2FPermaviews) into your TiddlyWiki 5 page/tab.
