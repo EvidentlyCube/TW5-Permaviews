@@ -1,5 +1,7 @@
 # Permaviews [TiddlyWiki5 Plugin]
 
+> :warning: **This repository has been moved**: To make development easier this plugin's code was moved to [EvidentlyCube/TW5-PluginShowcase](https://github.com/EvidentlyCube/TW5-PluginShowcase/tree/main), specifically [here](https://github.com/EvidentlyCube/TW5-PluginShowcase/tree/main/plugins/EvidentlyCube/TW5-Permaviews) .
+
 Define lists of tiddlers that automatically open when you visit a predefined permalink.
 
 ## How to use:
